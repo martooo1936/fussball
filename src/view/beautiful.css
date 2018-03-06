@@ -1,0 +1,9 @@
+.root{
+    -fx-background-image: url("back.png");
+}
+.label{
+    -fx-background-color: grey;
+}
+.button{
+    -fx-background-color: grey;
+}
